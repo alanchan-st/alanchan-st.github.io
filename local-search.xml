@@ -4,34 +4,9 @@
   
   
   <entry>
-    <title>Real Analysis系列（1）</title>
-    <link href="/2021/01/05/real1.html"/>
-    <url>/2021/01/05/real1.html</url>
-    
-    <content type="html"><![CDATA[<p>距离回国还有一段时间，即使回国了也没有什么事情去做。刚好申请时候有很多例子都在强调Real Analysis对于PhD学习的重要性，于是准备趁着这段时间好好的自学一下这方面的内容。</p><blockquote><p>本系列主要材料均基于</p><p>Real Analysis: Modern Techniques and Their Applications, 2nd</p><p>– Gerald B. Folland</p></blockquote><p>对于文中的描述，还是以英文为主。</p><h1 id="Prologue"><a href="#Prologue" class="headerlink" title="Prologue"></a><em>Prologue</em></h1><p>以下<strong>Numberal System</strong>中最基本的符号：<br>$$<br>\begin{array}{l}<br>\mathbb{N}=\text { the set of positive integers (not including zero) } \<br>\mathbb{Z}=\text { the set of integers } \<br>\mathbb{Q}=\text { the set of rational numbers } \<br>\mathbb{R}=\text { the set of real numbers } \<br>\mathbb{C}=\text { the set of complex numbers }<br>\end{array}<br>$$<br>在<strong>Logic</strong>部分，作者提到了一种很有意思的证明方式<del>（可能是我数学太渣了）</del>。如果A和B是mathematical assertions，并且用-A和-B来表示他们的对立面（negations），那么A推出B意味着-B可以推出-A。</p><p>如果X和Y都是集合，<br>$$<br>X \times Y<br>$$<br>笛卡尔乘积（<strong>Cartesian product</strong>），是他们的有序对的集合。理解起来可能很拗口，一个直观的例子是假设集合A={a, b}，集合B={0, 1, 2}，则两个集合的笛卡尔积为{(a, 0), (a, 1), (a, 2), (b, 0), (b, 1), (b, 2)}。</p><p>从$X$到$Y$的一种<strong>Relation</strong>是上述集合的子集。可以用$R$来表示</p>]]></content>
-    
-    
-    <categories>
-      
-      <category>Study</category>
-      
-    </categories>
-    
-    
-    <tags>
-      
-      <tag>Real Analysis</tag>
-      
-    </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title>12/30/2020</title>
-    <link href="/2020/12/29/202001.html"/>
-    <url>/2020/12/29/202001.html</url>
+    <link href="/Diary/202001/"/>
+    <url>/Diary/202001/</url>
     
     <content type="html"><![CDATA[<p>结束所有学校任务之后，每天都是在家里躺尸，不知道该干什么。偶然间发现可以自己搭建属于自己的Blog，我立马提了兴趣。配置，选主题，选编译器……弄了一大堆，甚至还因此重装了一次系统（<del>很恶心，卸载不干净node</del>），终于今天成功了！希望自己能坚持下来，多写写给自己留一些记忆。</p><p>最想吐槽的事情，莫过于自己的手机惨烈牺牲。</p><p><img src="202001/103BA55E-22AA-473F-8A50-A4623E297F2C_1_105_c.jpeg" alt="我始终想不通为什么前屏没碎后盖裂了"></p><p>真就乐极生悲，穿个短裤瞎得瑟出门，然后就摔了。还好前阵子有预感自己会搞事，买了个Apple Care+（一次性的没卖了，就只买了个订阅的，想着明年有机会再换）。开始看见屏幕没碎还得瑟，结果发现屏幕$29，后盖$99。不管怎么说，以后长个教训，别得瑟。</p><p>接下来好好搞卫生，卖家具，准备好回国的事情。再多看看地里面录取，希望自己能够有如意的Offer。</p>]]></content>
     
