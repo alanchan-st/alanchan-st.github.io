@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://alanchan-st.github.io/Diary/202001/</loc>
+    <loc>https://alanchan-st.github.io/Daily/application/</loc>
     
-     <lastmod>2020-12-30T22:11:20.465Z</lastmod>
+     <lastmod>2021-01-20T22:19:42.196Z</lastmod>
     
   </url>
   
@@ -18,15 +18,15 @@
 
   <url>
     <loc>https://alanchan-st.github.io/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://alanchan-st.github.io/tags/Other/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>https://alanchan-st.github.io/tags/Application/</loc>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -34,8 +34,8 @@
 
   
   <url>
-    <loc>https://alanchan-st.github.io/categories/Diary/</loc>
-    <lastmod>2021-01-11</lastmod>
+    <loc>https://alanchan-st.github.io/categories/Daily/</loc>
+    <lastmod>2021-01-20</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
