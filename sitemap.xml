@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://alanchan-st.github.io/Reading-Notes/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/</loc>
+    <loc>https://alanchan-st.github.io/%E9%9A%8F%E7%AC%94/note1/</loc>
     
-     <lastmod>2021-03-08T13:08:52.354Z</lastmod>
+     <lastmod>2021-04-06T01:52:10.143Z</lastmod>
     
   </url>
   
@@ -25,7 +25,7 @@
 
   <url>
     <loc>https://alanchan-st.github.io/</loc>
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,14 +33,7 @@
   
   <url>
     <loc>https://alanchan-st.github.io/tags/Application/</loc>
-    <lastmod>2021-03-08</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://alanchan-st.github.io/tags/%E5%8D%A1%E8%80%90%E5%9F%BA/</loc>
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49,14 +42,14 @@
   
   <url>
     <loc>https://alanchan-st.github.io/categories/Daily/</loc>
-    <lastmod>2021-03-08</lastmod>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://alanchan-st.github.io/categories/Reading-Notes/</loc>
-    <lastmod>2021-03-08</lastmod>
+    <loc>https://alanchan-st.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
