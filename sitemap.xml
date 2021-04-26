@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://alanchan-st.github.io/%E9%9A%8F%E7%AC%94/note2/</loc>
+    
+     <lastmod>2021-04-26T06:07:37.869Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://alanchan-st.github.io/%E9%9A%8F%E7%AC%94/note1/</loc>
     
      <lastmod>2021-04-06T01:52:10.143Z</lastmod>
@@ -25,7 +32,7 @@
 
   <url>
     <loc>https://alanchan-st.github.io/</loc>
-    <lastmod>2021-04-06</lastmod>
+    <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,7 +40,7 @@
   
   <url>
     <loc>https://alanchan-st.github.io/tags/Application/</loc>
-    <lastmod>2021-04-06</lastmod>
+    <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -42,14 +49,14 @@
   
   <url>
     <loc>https://alanchan-st.github.io/categories/Daily/</loc>
-    <lastmod>2021-04-06</lastmod>
+    <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://alanchan-st.github.io/categories/%E9%9A%8F%E7%AC%94/</loc>
-    <lastmod>2021-04-06</lastmod>
+    <lastmod>2021-04-26</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
